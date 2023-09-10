@@ -1,0 +1,8 @@
+{
+  "env": {
+    "DB_USERNAME": "srishtisemwal21",
+    "DB_PASSWORD": "Srishti12345",
+    "DB_NAME": "ekart",
+    "JWT_KEY": "It is a secret key"
+  }
+}
